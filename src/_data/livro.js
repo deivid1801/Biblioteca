@@ -47,5 +47,26 @@ export const livros = [
         author: 'M. Kishimoto, T. Yano',
         price: 25.19,
         cover: 'https://m.media-amazon.com/images/I/51Sw3Vyyg5L.jpg'
-    }
+    },
+    {
+      id: 8,
+      title: "Thomas",
+      author: 'Gabriela Bortolotto',
+      price: 30.20,
+      cover: 'https://m.media-amazon.com/images/I/41Lz5hoP+nL._SY346_.jpg'
+  },
+  {
+    id: 9,
+    title: "First Time",
+    author: 'K.A Peixoto',
+    price: 27.99,
+    cover: 'https://m.media-amazon.com/images/I/41xfWcytvpL.jpg'
+  },
+  {
+    id: 10,
+    title: "First Time",
+    author: 'K.A Peixoto',
+    price: 27.99,
+    cover: 'https://m.media-amazon.com/images/I/41xfWcytvpL.jpg'
+  }
   ]
